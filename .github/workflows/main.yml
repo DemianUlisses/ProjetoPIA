@@ -3,7 +3,7 @@ name: ProjetoPIA
 on:
  workflow_dispatch:
  
- jobs:
+ fork:
    build:
       runs-on: ubuntu-lastes
       steps:
