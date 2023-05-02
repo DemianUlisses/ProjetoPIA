@@ -2,7 +2,9 @@ import axios from 'axios';
 import { showError } from './../scripts/Messages';
 import SessionManager from './../scripts/SessionManager';
 
-export const urlBase = 'http://localhost:5003';
+export const urlBase = 'http://localhost:8010';
+//export const urlBase = 'http://167.114.38.230:4001';
+
 
 export const DEBUG = false;
 
