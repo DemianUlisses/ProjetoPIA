@@ -1,9 +1,0 @@
-D:\desenvolvimento\projetos\clinica\api\framework\bin\Release\netcoreapp2.2\framework.deps.json
-D:\desenvolvimento\projetos\clinica\api\framework\bin\Release\netcoreapp2.2\framework.dll
-D:\desenvolvimento\projetos\clinica\api\framework\bin\Release\netcoreapp2.2\framework.pdb
-D:\desenvolvimento\projetos\clinica\api\framework\obj\Release\netcoreapp2.2\framework.csproj.CoreCompileInputs.cache
-D:\desenvolvimento\projetos\clinica\api\framework\obj\Release\netcoreapp2.2\framework.AssemblyInfoInputs.cache
-D:\desenvolvimento\projetos\clinica\api\framework\obj\Release\netcoreapp2.2\framework.AssemblyInfo.cs
-D:\desenvolvimento\projetos\clinica\api\framework\obj\Release\netcoreapp2.2\framework.dll
-D:\desenvolvimento\projetos\clinica\api\framework\obj\Release\netcoreapp2.2\framework.pdb
-D:\desenvolvimento\projetos\clinica\api\framework\obj\Release\netcoreapp2.2\framework.csprojAssemblyReference.cache

@@ -1,9 +1,0 @@
-D:\desenvolvimento\projetos\clinica\api\messages\bin\Release\netcoreapp2.1\messages.deps.json
-D:\desenvolvimento\projetos\clinica\api\messages\bin\Release\netcoreapp2.1\messages.dll
-D:\desenvolvimento\projetos\clinica\api\messages\bin\Release\netcoreapp2.1\messages.pdb
-D:\desenvolvimento\projetos\clinica\api\messages\obj\Release\netcoreapp2.1\messages.csprojAssemblyReference.cache
-D:\desenvolvimento\projetos\clinica\api\messages\obj\Release\netcoreapp2.1\messages.csproj.CoreCompileInputs.cache
-D:\desenvolvimento\projetos\clinica\api\messages\obj\Release\netcoreapp2.1\messages.AssemblyInfoInputs.cache
-D:\desenvolvimento\projetos\clinica\api\messages\obj\Release\netcoreapp2.1\messages.AssemblyInfo.cs
-D:\desenvolvimento\projetos\clinica\api\messages\obj\Release\netcoreapp2.1\messages.dll
-D:\desenvolvimento\projetos\clinica\api\messages\obj\Release\netcoreapp2.1\messages.pdb
