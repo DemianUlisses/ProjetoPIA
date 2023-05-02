@@ -1,0 +1,49 @@
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.csprojAssemblyReference.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.AssemblyInfoInputs.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.AssemblyInfo.cs
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.csproj.CoreCompileInputs.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/ojogodabolsa.deps.json
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/ojogodabolsa.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/ojogodabolsa.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/data.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/framework.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/messages.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/data.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/framework.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/messages.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.csproj.CopyComplete
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/ojogodabolsa.deps.json
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/ojogodabolsa.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/ojogodabolsa.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/data.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/framework.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/messages.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/data.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/framework.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/bin/Debug/netcoreapp3.1/messages.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.csprojAssemblyReference.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.AssemblyInfoInputs.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.AssemblyInfo.cs
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.csproj.CoreCompileInputs.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.csproj.CopyComplete
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/ojogodabolsa/obj/Debug/netcoreapp3.1/ojogodabolsa.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\ojogodabolsa.deps.json
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\ojogodabolsa.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\ojogodabolsa.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\data.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\framework.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\messages.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\data.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\framework.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\bin\Debug\netcoreapp3.1\messages.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.csproj.AssemblyReference.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.AssemblyInfoInputs.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.AssemblyInfo.cs
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.csproj.CoreCompileInputs.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.csproj.CopyComplete
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\ojogodabolsa\obj\Debug\netcoreapp3.1\ojogodabolsa.pdb

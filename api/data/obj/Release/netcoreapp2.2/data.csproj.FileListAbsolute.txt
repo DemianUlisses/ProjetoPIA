@@ -1,0 +1,14 @@
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\data.deps.json
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\data.dll
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\data.pdb
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\framework.dll
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\messages.dll
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\framework.pdb
+D:\desenvolvimento\projetos\clinica\api\data\bin\Release\netcoreapp2.2\messages.pdb
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.csprojAssemblyReference.cache
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.AssemblyInfoInputs.cache
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.AssemblyInfo.cs
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.csproj.CopyComplete
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.dll
+D:\desenvolvimento\projetos\clinica\api\data\obj\Release\netcoreapp2.2\data.pdb

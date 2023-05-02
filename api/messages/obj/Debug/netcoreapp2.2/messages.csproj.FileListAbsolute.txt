@@ -1,0 +1,8 @@
+D:\desenvolvimento\projetos\clinica\api\messages\bin\Debug\netcoreapp2.2\messages.deps.json
+D:\desenvolvimento\projetos\clinica\api\messages\bin\Debug\netcoreapp2.2\messages.dll
+D:\desenvolvimento\projetos\clinica\api\messages\bin\Debug\netcoreapp2.2\messages.pdb
+D:\desenvolvimento\projetos\clinica\api\messages\obj\Debug\netcoreapp2.2\messages.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\projetos\clinica\api\messages\obj\Debug\netcoreapp2.2\messages.AssemblyInfoInputs.cache
+D:\desenvolvimento\projetos\clinica\api\messages\obj\Debug\netcoreapp2.2\messages.AssemblyInfo.cs
+D:\desenvolvimento\projetos\clinica\api\messages\obj\Debug\netcoreapp2.2\messages.dll
+D:\desenvolvimento\projetos\clinica\api\messages\obj\Debug\netcoreapp2.2\messages.pdb

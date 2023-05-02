@@ -1,0 +1,234 @@
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\testhost.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\clinica.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\data.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\framework.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\marketing.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\messages.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\clinica.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\data.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\framework.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\marketing.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\bin\Debug\netcoreapp3.1\messages.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CopyComplete
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+D:\desenvolvimento\projetos\clinica\api\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\testhost.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\data.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\framework.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\messages.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ojogodabolsa.dll
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\ojogodabolsa.pdb
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\data.pdb
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\framework.pdb
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\bin\Debug\netcoreapp3.1\messages.pdb
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CopyComplete
+D:\desenvolvimento\projetos\o jogo da bolsa\api\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache

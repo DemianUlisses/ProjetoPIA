@@ -1,0 +1,179 @@
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/setup.exe
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/setup.deps.json
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/setup.runtimeconfig.json
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/setup.runtimeconfig.dev.json
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/setup.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/setup.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Antlr3.Runtime.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/FluentNHibernate.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Iesi.Collections.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.OData.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.OData.Core.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.OData.Edm.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.Spatial.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/NHibernate.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Npgsql.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Remotion.Linq.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/Remotion.Linq.EagerFetching.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/clinica.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/config.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/data.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/framework.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/marketing.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/messages.dll
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/config.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/clinica.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/data.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/framework.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/marketing.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/bin/Debug/netcoreapp3.1/messages.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.csprojAssemblyReference.cache
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.AssemblyInfoInputs.cache
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.AssemblyInfo.cs
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.csproj.CoreCompileInputs.cache
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.csproj.CopyComplete
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.dll
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.pdb
+D:/desenvolvimento/projetos/clinica/api/setup/obj/Debug/netcoreapp3.1/setup.genruntimeconfig.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.csprojAssemblyReference.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.AssemblyInfoInputs.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.AssemblyInfo.cs
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.csproj.CoreCompileInputs.cache
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.exe
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.deps.json
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.runtimeconfig.json
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.runtimeconfig.dev.json
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Antlr3.Runtime.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/FluentNHibernate.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Iesi.Collections.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.OData.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.OData.Core.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.OData.Edm.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.Spatial.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/NHibernate.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Npgsql.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Remotion.Linq.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Remotion.Linq.EagerFetching.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/config.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/data.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/framework.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/messages.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/ojogodabolsa.dll
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/config.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/data.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/framework.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/messages.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/ojogodabolsa.pdb
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.csproj.CopyComplete
+D:/desenvolvimento/projetos/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.genruntimeconfig.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.deps.json
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.runtimeconfig.json
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.runtimeconfig.dev.json
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/setup.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Antlr3.Runtime.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/FluentNHibernate.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Iesi.Collections.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.OData.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.OData.Core.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.OData.Edm.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Microsoft.Spatial.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/NHibernate.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Remotion.Linq.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/Remotion.Linq.EagerFetching.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/config.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/data.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/framework.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/messages.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/ojogodabolsa.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/config.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/data.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/framework.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/messages.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/bin/Debug/netcoreapp3.1/ojogodabolsa.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.csprojAssemblyReference.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.AssemblyInfoInputs.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.AssemblyInfo.cs
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.csproj.CoreCompileInputs.cache
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.csproj.CopyComplete
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.dll
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.pdb
+/Users/ramondasilvapacheco/desenvolvimento/o jogo da bolsa/api/setup/obj/Debug/netcoreapp3.1/setup.genruntimeconfig.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\setup.exe
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\setup.deps.json
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\setup.runtimeconfig.json
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\setup.runtimeconfig.dev.json
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\setup.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\setup.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\FluentNHibernate.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\NHibernate.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\Remotion.Linq.EagerFetching.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\config.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\data.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\framework.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\messages.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\config.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\data.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\framework.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\messages.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.csproj.AssemblyReference.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.AssemblyInfoInputs.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.AssemblyInfo.cs
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.csproj.CoreCompileInputs.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.csproj.CopyComplete
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.pdb
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\obj\Debug\netcoreapp3.1\setup.genruntimeconfig.cache
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\domain.dll
+C:\Users\55319\Desktop\Projeto PIA\Demian\Demian\api\setup\bin\Debug\netcoreapp3.1\domain.pdb

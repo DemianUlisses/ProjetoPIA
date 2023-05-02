@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1D32DA3A-3BF7-4A58-AA58-8A0E1CD91FEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ojogodabolsa/EnvioDeEmail.cs">
+    <Files>
+      <File FileName="api/Controllers/PalpiteController.cs" Line="389" Column="45" />
+      <File FileName="api/Controllers/ArquivoController.cs" Line="63" Column="1" />
+      <File FileName="ojogodabolsa/EnvioDeEmail.cs" Line="49" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api" expanded="True">
+            <Node name="api" selected="True" />
+            <Node name="ojogodabolsa" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>semana51.DataDeFechamentoDosJogos.Date &gt; now.Date</Value>
+          <Value>semana51.HoraDeFechamentoDosJogos</Value>
+          <Value>now.TimeOfDay</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
