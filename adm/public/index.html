@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%PUBLIC_URL%/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#000000" />
+
+		<meta name="description" content="" />
+
+		<title>O Jogo da Bolsa - Administração</title>
+
+		<style>
+			.loadingDiv {
+				display: block;
+			}
+
+			.loadingDiv.hide {
+				display: none;
+			}
+
+			.noselect {
+				-webkit-touch-callout: none; /* iOS Safari */
+				-webkit-user-select: none; /* Safari */
+				-khtml-user-select: none; /* Konqueror HTML */
+				-moz-user-select: none; /* Firefox */
+				-ms-user-select: none; /* Internet Explorer/Edge */
+				user-select: none; /* Non-prefixed version, currently
+                                          supported by Chrome and Opera */
+			}
+
+			@page {
+				margin: 2mm 2mm 2mm 2mm;
+			}
+
+			.show-on-print {
+				display: none;
+			}
+
+			@media print {
+				.hide-on-print {
+					display: none !important;
+				}
+
+				.show-on-print {
+					background-color: white;
+					border: 1px solid black;
+					padding: 0;
+					margin: 0;
+					height: fit-content;
+					width: 100%;
+					margin-right: 20px;
+					overflow: hidden;
+					page-break-inside: auto;
+				}
+			}
+		</style>
+	</head>
+	<body onload="document.getElementById('root').style.visibility = 'visible'">
+		<noscript>You need to enable JavaScript to run this app.</noscript>
+		<div id="root" style="visibility: hidden"></div>
+		<div id="loading" class="loadingDiv hide">
+			<div
+				style="
+					position: fixed;
+					background-color: rgb(136, 136, 136);
+					text-align: center;
+					top: 0px;
+					left: 0px;
+					height: 100%;
+					width: 100%;
+					z-index: 1060;
+					opacity: 0.5;
+				"
+			></div>
+			<div style="position: fixed; top: 50%; left: 50%; z-index: 1061; height: 50px; margin-left: -20px;">
+				<svg
+					fill="red"
+					version="1.1"
+					id="loader-1"
+					xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink"
+					x="0px"
+					y="0px"
+					width="40px"
+					height="40px"
+					viewBox="0 0 50 50"
+					xml:space="preserve"
+				>
+					<path
+						fill="red"
+						d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z"
+						transform="rotate(85.5738 25 25)"
+					>
+						<animateTransform
+							attributeType="xml"
+							attributeName="transform"
+							type="rotate"
+							from="0 25 25"
+							to="360 25 25"
+							dur="0.6s"
+							repeatCount="indefinite"
+						></animateTransform>
+					</path>
+				</svg>
+			</div>
+		</div>
+		<!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    --></body>
+</html>
