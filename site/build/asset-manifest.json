@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d21810b.chunk.css",
+    "main.js": "/static/js/main.226574b1.chunk.js",
+    "main.js.map": "/static/js/main.226574b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65431efd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65431efd.js.map",
+    "static/css/2.0d29781e.chunk.css": "/static/css/2.0d29781e.chunk.css",
+    "static/js/2.5844bbbb.chunk.js": "/static/js/2.5844bbbb.chunk.js",
+    "static/js/2.5844bbbb.chunk.js.map": "/static/js/2.5844bbbb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6de7d3dbce289bbb05d6bd1d67fe618.js": "/precache-manifest.a6de7d3dbce289bbb05d6bd1d67fe618.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0d29781e.chunk.css.map": "/static/css/2.0d29781e.chunk.css.map",
+    "static/css/main.2d21810b.chunk.css.map": "/static/css/main.2d21810b.chunk.css.map",
+    "static/js/2.5844bbbb.chunk.js.LICENSE.txt": "/static/js/2.5844bbbb.chunk.js.LICENSE.txt",
+    "static/media/dashboard.svg": "/static/media/dashboard.d939dc6f.svg",
+    "static/media/ganhadores.png": "/static/media/ganhadores.cd2d7882.png",
+    "static/media/jogar.png": "/static/media/jogar.9ab4f306.png",
+    "static/media/logo-login.png": "/static/media/logo-login.aa64f567.png",
+    "static/media/touro.svg": "/static/media/touro.4bb3dafa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65431efd.js",
+    "static/css/2.0d29781e.chunk.css",
+    "static/js/2.5844bbbb.chunk.js",
+    "static/css/main.2d21810b.chunk.css",
+    "static/js/main.226574b1.chunk.js"
+  ]
+}

@@ -2,7 +2,7 @@ import axios from 'axios';
 import { showError } from './../scripts/Messages';
 import SessionManager from './../scripts/SessionManager';
 
-export const urlBase = 'http://localhost:5003';
+export const urlBase = 'http://jogosdabolsa.ddns.net:5003';
 
 export const DEBUG = false;
 
